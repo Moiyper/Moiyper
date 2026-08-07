@@ -1,22 +1,9 @@
-```
-root@RAYSE:~# neofetch
-
-                                                    root@RAYSE
-                                                    -----------------
-██████╗    █████╗  ██╗   ██╗  ███████╗  ███████╗    OS: Ubuntu 20.04.6 LTS on Windows 10 x86_64
-██╔══██╗  ██╔══██╗  ╚██╗ ██╔╝  ██╔════╝  ██╔════╝   Kernel: 5.10.102.1-microsoft-standard-WSL2
-██████╔╝  ███████║   ╚████╔╝   ███████╗  █████╗     Uptime: 9 hours, 20 mins
-██╔══██╗  ██╔══██║    ╚██╔╝    ╚════██║  ██╔══╝     Packages: 1541 (dpkg)
-██║  ██║  ██║  ██║     ██║     ███████║  ███████╗   Shell: bash 5.0.17
-╚═╝  ╚═╝  ╚═╝  ╚═╝     ╚═╝     ╚══════╝  ╚══════╝   Terminal: /dev/pts/1
-                                                    CPU: Intel i5-8400 (4) @ 2.711GHz
-                                                    Memory: 99MiB / 12675MiB
-                                                    ░░▒▒▓▓██ ██▓▓▒▒░░
-```
 
 <div align="center">
+<img width="1664" height="928" alt="1786132467" src="https://github.com/user-attachments/assets/d632175a-421b-4900-9370-d7f8e6470e50" />
 
-# Привет, я Moiyper
+
+# Привет, я Rayse
 
 **Junior+/Middle C++ Developer**  
 System programming | Cryptography | InfoSec | Qt Framework
