@@ -1,3 +1,19 @@
+```
+root@RAYSE:~# neofetch
+
+                                                    root@RAYSE
+                                                    -----------------
+██████╗    █████╗  ██╗   ██╗  ███████╗  ███████╗    OS: Ubuntu 20.04.6 LTS on Windows 10 x86_64
+██╔══██╗  ██╔══██╗  ╚██╗ ██╔╝  ██╔════╝  ██╔════╝   Kernel: 5.10.102.1-microsoft-standard-WSL2
+██████╔╝  ███████║   ╚████╔╝   ███████╗  █████╗     Uptime: 9 hours, 20 mins
+██╔══██╗  ██╔══██║    ╚██╔╝    ╚════██║  ██╔══╝     Packages: 1541 (dpkg)
+██║  ██║  ██║  ██║     ██║     ███████║  ███████╗   Shell: bash 5.0.17
+╚═╝  ╚═╝  ╚═╝  ╚═╝     ╚═╝     ╚══════╝  ╚══════╝   Terminal: /dev/pts/1
+                                                    CPU: Intel i5-8400 (4) @ 2.711GHz
+                                                    Memory: 99MiB / 12675MiB
+                                                    ░░▒▒▓▓██ ██▓▓▒▒░░
+```
+
 <div align="center">
 
 # Привет, я Moiyper
