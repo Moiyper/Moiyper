@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Moiyper 👋
+# Привет, я Moiyper
 
 **Junior+/Middle C++ Developer**  
 System programming | Cryptography | InfoSec | Qt Framework
@@ -9,15 +9,15 @@ System programming | Cryptography | InfoSec | Qt Framework
 
 ---
 
-## 🧑‍💻 Обо мне
+## Обо мне
 
-- 🔭 Системное программирование и криптография
-- 🌱 Изучаю Reverse Engineering (Assembler x86/64)
-- 💼 Стек: C++, Qt, WinAPI, InfoSec
+- Системное программирование и криптография
+- Изучаю Reverse Engineering (Assembler x86/64)
+- Стек: C++, Qt, WinAPI, InfoSec
 
 ---
 
-## 🛠 Технологии
+## Технологии
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,qt,linux,vscode,git,github" height="40"/>
@@ -25,7 +25,7 @@ System programming | Cryptography | InfoSec | Qt Framework
 
 ---
 
-## 📊 Статистика в графиках
+## Статистика
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moiyper&theme=radical" alt="Profile Details" width="800"/>
@@ -43,7 +43,7 @@ System programming | Cryptography | InfoSec | Qt Framework
 
 ---
 
-## 🔥 Активность
+## Активность
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Moiyper&theme=radical&border_radius=10" alt="Streak Stats"/>
@@ -51,7 +51,7 @@ System programming | Cryptography | InfoSec | Qt Framework
 
 ---
 
-## 📫 Как со мной связаться
+## Как со мной связаться
 
 <p align="center">
   <a href="https://t.me/moiyper">
