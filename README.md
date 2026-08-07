@@ -43,14 +43,6 @@ System programming | Cryptography | InfoSec | Qt Framework
 
 ---
 
-## 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moiyper&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
----
-
 ## 🔥 Активность
 
 <p align="center">
@@ -62,19 +54,13 @@ System programming | Cryptography | InfoSec | Qt Framework
 ## 📫 Как со мной связаться
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/moiyper">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://kwork.ru/user/moiyper">
+    <img src="https://img.shields.io/badge/Kwork-1DBF73?style=for-the-badge&logoColor=white" alt="Kwork"/>
+  </a>
+  <a href="https://www.fl.ru/users/rima335122298r/portfolio/">
+    <img src="https://img.shields.io/badge/FL.ru-4A90E2?style=for-the-badge&logoColor=white" alt="FL.ru"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api/test/Moiyper?label=Profile%20views&color=0&pretty=true" alt="Profile Views"/>
-</div>
